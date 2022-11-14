@@ -1,0 +1,28 @@
+{
+  "name": "case-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "bootstrap": "^5.2.2",
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.3",
+    "next": "13.0.3",
+    "nprogress": "^0.2.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.6.0",
+    "react-dom": "18.2.0",
+    "react-feather": "^2.0.10",
+    "web3": "1.7.4"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
